@@ -5,7 +5,7 @@ import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
 
 // Pages
-import   { Home } from './pages/Home';
+import { Home } from './pages/Home';
 import { DetectDisease } from './pages/DetectDisease';
 import { DiseaseLibrary } from './pages/DiseaseLibrary';
 import { SubmitReport } from './pages/SubmitReport';
