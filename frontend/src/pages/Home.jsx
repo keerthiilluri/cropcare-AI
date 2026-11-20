@@ -356,7 +356,7 @@ export const Home = ({ setActivePage, setSelectedSample }) => {
             </div>
           </div>
         </div>
-      </section>
+     
 
     </div>
   );
