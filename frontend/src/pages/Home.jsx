@@ -175,11 +175,7 @@ export const Home = ({ setActivePage, setSelectedSample }) => {
                 </div>
               </div>
 
-              {/* Floating College Service Tag */}
-              <div className="absolute -top-4 -left-4 hidden sm:flex items-center gap-2 px-4 py-2 rounded-2xl bg-white shadow-xl border border-forest-100 text-xs font-black text-forest-900">
-                <Award className="w-4 h-4 text-amber-500" />
-                <span>College Community Service Project</span>
-              </div>
+              
             </div>
 
           </div>
