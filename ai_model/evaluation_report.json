@@ -1,0 +1,117 @@
+{
+  "model_file": "crop_disease_model.onnx",
+  "total_test_samples": 6,
+  "accuracy": 0.1667,
+  "precision_weighted": 0.0417,
+  "recall_weighted": 0.1667,
+  "f1_score_weighted": 0.0667,
+  "confusion_matrix": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "sample_evaluations": [
+    {
+      "image": "tomato_early_blight_sample.jpg",
+      "true_label": "Tomato - Early Blight",
+      "predicted_label": "Tomato - Yellow Leaf Curl Virus",
+      "confidence": 4.87,
+      "correct": false
+    },
+    {
+      "image": "tomato_healthy_sample.jpg",
+      "true_label": "Tomato - Healthy",
+      "predicted_label": "Rice (Paddy) - Brown Spot",
+      "confidence": 5.15,
+      "correct": false
+    },
+    {
+      "image": "potato_early_blight_sample.jpg",
+      "true_label": "Potato - Early Blight",
+      "predicted_label": "Tomato - Yellow Leaf Curl Virus",
+      "confidence": 4.86,
+      "correct": false
+    },
+    {
+      "image": "potato_late_blight_sample.jpg",
+      "true_label": "Potato - Late Blight",
+      "predicted_label": "Rice (Paddy) - Brown Spot",
+      "confidence": 4.94,
+      "correct": false
+    },
+    {
+      "image": "corn_common_rust_sample.jpg",
+      "true_label": "Corn (Maize) - Common Rust",
+      "predicted_label": "Rice (Paddy) - Brown Spot",
+      "confidence": 4.93,
+      "correct": false
+    },
+    {
+      "image": "rice_brown_spot_sample.jpg",
+      "true_label": "Rice (Paddy) - Brown Spot",
+      "predicted_label": "Rice (Paddy) - Brown Spot",
+      "confidence": 4.98,
+      "correct": true
+    }
+  ]
+}

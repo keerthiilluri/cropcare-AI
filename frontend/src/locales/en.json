@@ -1,0 +1,78 @@
+{
+  "appName": "CropCare AI",
+  "tagline": "Smart Farming, Healthy Crops",
+  "nav": {
+    "home": "Home",
+    "detect": "Detect Disease",
+    "library": "Disease Library",
+    "reports": "Report Outbreak",
+    "outbreaks": "Outbreak Surveillance",
+    "tips": "Farming Tips",
+    "dashboard": "Farmer Dashboard",
+    "admin": "Admin Portal",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "hero": {
+    "badge": "AI-Powered Agritech Platform",
+    "title": "Smart Crop Disease Detection & Farmer Assistance",
+    "subtitle": "Protect your harvest with deep learning leaf diagnostics. Instantly identify crop pathogens, access expert-verified organic treatments, and report field outbreaks.",
+    "detectBtn": "Detect Crop Disease Now",
+    "exploreBtn": "Explore Disease Library",
+    "testedOn": "Powered by MobileNetV2 Trained on PlantVillage Dataset"
+  },
+  "stats": {
+    "title": "Real-Time Agricultural Impact",
+    "farmers": "Registered Farmers",
+    "detections": "AI Leaf Diagnoses",
+    "reports": "Field Reports Logged",
+    "diseases": "Supported Plant Diseases"
+  },
+  "detect": {
+    "title": "Crop Disease Diagnostic Center",
+    "subtitle": "Upload a clear photograph of an infected leaf or use your smartphone camera to receive instant diagnosis and treatment guidance.",
+    "dragDrop": "Drag and drop your leaf photo here, or click to browse",
+    "cameraBtn": "Use Camera",
+    "samplePhotos": "Or test with verified sample demonstration leaves:",
+    "analyzing": "Analyzing leaf image with MobileNetV2 neural network...",
+    "resultTitle": "Diagnostic Result",
+    "confidence": "Model Confidence",
+    "healthy": "Healthy Crop",
+    "diseased": "Potentially Diseased",
+    "unreliable": "Unable to identify reliably. Please upload a clearer image taken in natural light.",
+    "alternatives": "Alternative Diagnostics Considered",
+    "actions": "Recommended Next Steps",
+    "printBtn": "Print / Download PDF Report",
+    "reportBtn": "Report Outbreak to Extension Officer",
+    "accuracyNote": "Important: Field lighting, lens clarity, shadows, and crop growth stages influence AI confidence. Always cross-verify critical field treatments with local agronomy officers."
+  },
+  "report": {
+    "title": "Online Disease Outbreak Reporting",
+    "subtitle": "Submit field observations directly to district agricultural officers and Krishi Vigyan Kendras (KVK) for rapid regional containment.",
+    "cropName": "Crop Name",
+    "suspectedDisease": "Suspected Disease (if known)",
+    "village": "Village",
+    "district": "District",
+    "state": "State",
+    "gpsBtn": "Acquire Current GPS Coordinates (with consent)",
+    "symptoms": "Observed Symptoms & Severity",
+    "photo": "Upload Leaf / Crop Photo",
+    "submitBtn": "Submit Disease Report",
+    "myReports": "My Field Reports History",
+    "status": {
+      "submitted": "Submitted",
+      "underReview": "Under Review",
+      "verified": "Verified",
+      "resolved": "Resolved"
+    }
+  },
+  "admin": {
+    "title": "Agricultural Extension & Surveillance Portal",
+    "farmersTab": "Registered Farmers",
+    "reportsTab": "Community Field Reports",
+    "detectionsTab": "System Detections Log",
+    "analyticsTab": "Disease Outbreak Analytics",
+    "updateStatus": "Update Status & Action Notes"
+  }
+}

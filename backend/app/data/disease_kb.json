@@ -1,0 +1,934 @@
+[
+  {
+    "id": "tomato_early_blight",
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "scientific_name": "Alternaria solani",
+    "category": "Fungal",
+    "severity": "Moderate to High",
+    "is_healthy": false,
+    "description": "Early blight is a prevalent fungal disease affecting tomatoes, potatoes, and other solanaceous crops. It causes significant foliage loss, fruit damage, and reduced yield if left unmanaged.",
+    "symptoms": [
+      "Circular brown to dark brown spots with characteristic concentric rings (target board pattern) on older lower leaves.",
+      "Surrounding yellow halo (chlorosis) around dark spots.",
+      "Stem lesions that become elongated and sunken (collar rot in seedlings).",
+      "Sunken, leathery dark lesions on fruit near the stem end."
+    ],
+    "causes": [
+      "Fungal pathogen Alternaria solani surviving in infected crop debris or volunteer plants.",
+      "Spore dissemination through wind, rain splashes, irrigation water, and farming tools."
+    ],
+    "contributing_conditions": [
+      "Warm temperatures between 24°C and 29°C (75°F - 85°F).",
+      "High humidity and prolonged leaf wetness (frequent rain, heavy dew, or overhead irrigation).",
+      "Plant stress due to heavy fruit load or nutrient deficiency (especially nitrogen)."
+    ],
+    "immediate_steps": [
+      "Immediately prune and remove infected lower leaves using clean, sanitized pruning shears.",
+      "Do not compost infected plant parts; destroy or bury them away from fields.",
+      "Switch immediately from overhead sprinkling to drip or furrow irrigation to keep foliage dry."
+    ],
+    "organic_cultural_management": [
+      "Apply organic copper fungicide or Bacillus subtilis biopesticide at early onset.",
+      "Spread organic straw mulch around plant bases to prevent soil-borne spores from splashing onto lower leaves.",
+      "Improve spacing between tomato rows to enhance air circulation and sun exposure."
+    ],
+    "prevention_methods": [
+      "Practice 3-4 year crop rotation with non-solanaceous crops (such as corn, beans, or grains).",
+      "Plant certified disease-free seeds and blight-resistant tomato cultivars.",
+      "Stake and cage plants to elevate foliage off moist soil."
+    ],
+    "safe_handling_precautions": [
+      "Avoid handling or pruning tomato plants when leaves are wet with morning dew or rain.",
+      "Clean boots and sanitize tools with a 10% bleach solution between rows."
+    ],
+    "when_to_seek_expert": "Consult your local Krishi Vigyan Kendra (KVK) or extension officer if defoliation exceeds 25% of canopy or fruit lesions begin spreading rapidly across the field."
+  },
+  {
+    "id": "tomato_late_blight",
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "scientific_name": "Phytophthora infestans",
+    "category": "Oomycete / Water Mold",
+    "severity": "Critical",
+    "is_healthy": false,
+    "description": "Late blight is one of the most destructive agricultural diseases in history, capable of wiping out entire tomato and potato fields within a few days under damp, cool conditions.",
+    "symptoms": [
+      "Water-soaked, pale greenish-grey irregular lesions on leaves that rapidly turn dark brown or purplish-black.",
+      "Delicate white fuzzy or cottony fungal growth on the underside of leaves during humid mornings.",
+      "Dark brown to black lesions on stems and petioles causing vine collapse.",
+      "Firm, rough, greasy golden-brown patches on green and ripe tomato fruits."
+    ],
+    "causes": [
+      "Phytophthora infestans pathogen transported across long distances by wind-blown sporangia.",
+      "Overwinters in cull piles, volunteer potato tubers, and infected greenhouse seedlings."
+    ],
+    "contributing_conditions": [
+      "Cool to moderate temperatures (15°C to 22°C).",
+      "Relative humidity consistently above 90% with extended periods of rain, fog, or persistent mist."
+    ],
+    "immediate_steps": [
+      "Promptly isolate the infected area; remove and bag entire heavily infected plants to stop airborne spore release.",
+      "Stop all overhead irrigation immediately.",
+      "Notify neighboring farmers and agricultural extension officers due to severe risk of rapid regional outbreak."
+    ],
+    "organic_cultural_management": [
+      "Apply approved copper hydroxide or copper octanoate formulations as protective barriers before wet weather fronts.",
+      "Ensure wide plant spacing and north-south row orientation for maximum sunlight penetration."
+    ],
+    "prevention_methods": [
+      "Select late-blight-tolerant or resistant cultivars (e.g., Mountain Magic, Defiant PHR).",
+      "Destroy all volunteer potato and tomato plants and eliminate cull piles.",
+      "Monitor local university and government agricultural blight alert forecasts."
+    ],
+    "safe_handling_precautions": [
+      "Dispose of infected plant tissues in sealed plastic bags or deep bury them; never leave them exposed on field borders.",
+      "Wash clothing and sanitize equipment before moving to unaffected fields."
+    ],
+    "when_to_seek_expert": "Seek immediate emergency assistance from your agricultural university extension or horticulture officer immediately upon first suspicion."
+  },
+  {
+    "id": "tomato_bacterial_spot",
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "scientific_name": "Xanthomonas perforans / euvesicatoria",
+    "category": "Bacterial",
+    "severity": "Moderate to High",
+    "is_healthy": false,
+    "description": "Bacterial spot is a widespread bacterial affliction affecting foliage, stems, and fruits of tomatoes and peppers, causing severe defoliation and unmarketable blemished fruit.",
+    "symptoms": [
+      "Small, angular, dark brown to black water-soaked spots (1-3 mm) on foliage.",
+      "Leaf spots may tear or drop out, giving leaves a shot-hole or ragged appearance.",
+      "Severe yellowing and dropping of heavily infected foliage.",
+      "Raised, scab-like blister spots on green fruit with dark brown borders."
+    ],
+    "causes": [
+      "Seed-borne bacteria Xanthomonas species.",
+      "Transmitted via splashing rain, overhead irrigation, farm equipment, and workers."
+    ],
+    "contributing_conditions": [
+      "High temperatures between 25°C and 30°C.",
+      "Heavy driving rains, storms, and prolonged foliage wetness."
+    ],
+    "immediate_steps": [
+      "Cease overhead irrigation immediately.",
+      "Avoid working in field rows while plants are wet to prevent mechanical transmission."
+    ],
+    "organic_cultural_management": [
+      "Apply copper bactericides combined with mancozeb or Bacillus amyloliquefaciens according to local extension advice.",
+      "Mulch soil around beds to prevent rainwater backsplashes."
+    ],
+    "prevention_methods": [
+      "Use certified disease-free seeds or hot-water-treated seed stock (50°C for 25 minutes).",
+      "Rotate with non-host crops like corn, sorghum, or pulses for at least 2 seasons."
+    ],
+    "safe_handling_precautions": [
+      "Disinfect pruning knives, shears, and stakes using 70% isopropyl alcohol or 10% sodium hypochlorite."
+    ],
+    "when_to_seek_expert": "Consult extension specialists if copper-resistant bacterial strains are suspected in your district."
+  },
+  {
+    "id": "tomato_yellow_leaf_curl",
+    "crop": "Tomato",
+    "disease": "Yellow Leaf Curl Virus",
+    "scientific_name": "Tomato yellow leaf curl virus (TYLCV)",
+    "category": "Viral",
+    "severity": "High to Critical",
+    "is_healthy": false,
+    "description": "Tomato Yellow Leaf Curl Virus (TYLCV) is an insect-transmitted virus causing severe stunting, leaf chlorosis, and dramatic flower drop resulting in zero fruit yield if contracted early.",
+    "symptoms": [
+      "Severe upward curling and cupping of leaflets.",
+      "Marked yellowing (chlorosis) along leaflet margins and interveinal areas.",
+      "Bushy, stunted plant stature with shortened internodes.",
+      "Flower abortion and failure to set fruit; existing fruit remains small and pale."
+    ],
+    "causes": [
+      "Transmitted exclusively by the silverleaf whitefly (Bemisia tabaci).",
+      "Not seed-borne or mechanically transmitted through touch."
+    ],
+    "contributing_conditions": [
+      "Hot, dry weather favorable to rapid whitefly population explosions.",
+      "Presence of alternative weed hosts (nightshades, mallows) near tomato fields."
+    ],
+    "immediate_steps": [
+      "Rogue out and destroy infected viral plants immediately by pulling and burying them.",
+      "Deploy yellow sticky traps across the plot (1 trap every 10-15 meters) to capture and monitor whitefly populations."
+    ],
+    "organic_cultural_management": [
+      "Apply neem seed kernel extract (NSKE 5%) or horticultural insecticidal soaps to suppress nymphal whiteflies.",
+      "Use silver or reflective plastic mulch to disorient whiteflies and repel them from young plants."
+    ],
+    "prevention_methods": [
+      "Grow TYLCV-resistant hybrid tomato varieties.",
+      "Raise seedlings under 40-50 mesh insect-proof nylon nets in nursery beds.",
+      "Eradicate weed hosts surrounding fields."
+    ],
+    "safe_handling_precautions": [
+      "Always inspect underside of nursery seedling leaves for whitefly eggs before transplanting."
+    ],
+    "when_to_seek_expert": "Consult your agricultural officer for regional integrated pest management (IPM) guidelines on vector resistance."
+  },
+  {
+    "id": "tomato_healthy",
+    "crop": "Tomato",
+    "disease": "Healthy",
+    "scientific_name": "Solanum lycopersicum",
+    "category": "Normal / Healthy",
+    "severity": "None",
+    "is_healthy": true,
+    "description": "The tomato plant shows vigorous green foliage, normal leaf morphology, and no visible symptoms of fungal, bacterial, or viral disease.",
+    "symptoms": [
+      "Lush, uniformly green compound leaves without spots, yellowing, or curling.",
+      "Sturdy erect stems with healthy trichomes (hairs).",
+      "Regular floral cluster development and healthy fruit set."
+    ],
+    "causes": [
+      "Balanced soil nutrition, optimal watering, and proactive pest monitoring."
+    ],
+    "contributing_conditions": [
+      "Well-drained loamy soil with pH 6.0 - 6.8.",
+      "Consistent moisture and 6-8 hours of direct daily sunlight."
+    ],
+    "immediate_steps": [
+      "Maintain regular scheduled drip irrigation at root level.",
+      "Continue routine bi-weekly field scouting for early signs of pests."
+    ],
+    "organic_cultural_management": [
+      "Apply balanced organic compost and vermicompost around root zones.",
+      "Prune non-fruiting suckers to focus plant energy on primary fruit clusters."
+    ],
+    "prevention_methods": [
+      "Maintain weed-free borders.",
+      "Practice prophylactic neem oil spray every 14 days."
+    ],
+    "safe_handling_precautions": [
+      "Store tools cleanly and maintain proper field sanitation."
+    ],
+    "when_to_seek_expert": "No intervention required. Keep monitoring periodically."
+  },
+  {
+    "id": "potato_early_blight",
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "scientific_name": "Alternaria solani",
+    "category": "Fungal",
+    "severity": "Moderate",
+    "is_healthy": false,
+    "description": "Early blight is a recurring fungal leaf spot disease of potatoes that causes premature foliage senescence and surface lesions on tubers.",
+    "symptoms": [
+      "Circular to angular brown spots on lower leaves with characteristic concentric ridges.",
+      "Yellowing around lesions followed by dry, brittle leaf drop.",
+      "Tubers develop dark, sunken, corky circular depressions with raised purplish margins."
+    ],
+    "causes": [
+      "Alternaria solani fungus surviving in volunteer potatoes and solanaceous crop residues."
+    ],
+    "contributing_conditions": [
+      "Alternating dry weather and humid/wet periods.",
+      "Nutrient-deficient soils (especially low potassium or low nitrogen)."
+    ],
+    "immediate_steps": [
+      "Remove heavily spotted lower leaves where practical in small plots.",
+      "Avoid overhead sprinkler irrigation during late afternoon or evening."
+    ],
+    "organic_cultural_management": [
+      "Apply copper-based fungicides or Trichoderma harzianum bio-agent at first spot appearance.",
+      "Ensure adequate balanced fertilization to prevent premature crop stress."
+    ],
+    "prevention_methods": [
+      "Plant certified disease-free seed tubers.",
+      "Follow crop rotation with legumes, maize, or pasture grasses.",
+      "Hill up soil around potatoes adequately to shield tubers from spore wash."
+    ],
+    "safe_handling_precautions": [
+      "Allow tubers to fully cure in soil 10-14 days after vine kill before harvesting to prevent skin damage."
+    ],
+    "when_to_seek_expert": "Consult your local agronomy extension if leaf blighting accelerates during tuber bulking stage."
+  },
+  {
+    "id": "potato_late_blight",
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "scientific_name": "Phytophthora infestans",
+    "category": "Oomycete / Water Mold",
+    "severity": "Critical",
+    "is_healthy": false,
+    "description": "The notorious cause of the Irish Potato Famine, potato late blight can destroy whole crops in 7-10 days under cloudy, wet, cool weather.",
+    "symptoms": [
+      "Large, irregular water-soaked dark patches on leaf tips and margins.",
+      "White moldy mildew coating on the underside of infected leaves in moist mornings.",
+      "Brownish-black water-soaked lesions on stems.",
+      "Tubers show coppery-brown dry rot extending into flesh."
+    ],
+    "causes": [
+      "Phytophthora infestans oomycete spores spread by wind and cool rainy gusts."
+    ],
+    "contributing_conditions": [
+      "Temperatures between 12°C and 20°C with relative humidity above 90% for multiple consecutive days."
+    ],
+    "immediate_steps": [
+      "Apply protective contact fungicides immediately across uninfected foliage if alert is active.",
+      "Cut and destroy haulms (potato vines) if blight is widespread, waiting 2 weeks before harvest to safeguard tubers."
+    ],
+    "organic_cultural_management": [
+      "Preventive sprays of Bordeaux mixture (1%) or approved copper compounds.",
+      "Deep hilling of potato ridges (minimum 10-12 cm cover) to prevent spores washing into tubers."
+    ],
+    "prevention_methods": [
+      "Plant resistant varieties (such as Kufri Girdhari, Kufri Jyoti where adapted).",
+      "Never leave discarded seed tubers in open cull piles."
+    ],
+    "safe_handling_precautions": [
+      "Do not harvest when vines are wet or when soil is muddy."
+    ],
+    "when_to_seek_expert": "Immediately alert local agricultural department officials for localized late blight spray forecast advisories."
+  },
+  {
+    "id": "potato_healthy",
+    "crop": "Potato",
+    "disease": "Healthy",
+    "scientific_name": "Solanum tuberosum",
+    "category": "Normal / Healthy",
+    "severity": "None",
+    "is_healthy": true,
+    "description": "The potato plant demonstrates healthy vegetative canopy growth, clean green leaflets, and vigorous stem architecture.",
+    "symptoms": [
+      "Uniform green foliage with clean leaf margins.",
+      "Strong erect stems without dark streaking or wilting.",
+      "Normal flowering and tuber stolon development."
+    ],
+    "causes": [
+      "Good soil aeration, certified seed tuber quality, and balanced nutrition."
+    ],
+    "contributing_conditions": [
+      "Loose, friable sandy-loam soils with good drainage and pH 5.2 - 6.5."
+    ],
+    "immediate_steps": [
+      "Continue scheduled earthing-up (hilling) around stems.",
+      "Maintain consistent soil moisture without waterlogging."
+    ],
+    "organic_cultural_management": [
+      "Top-dress with decomposed farmyard manure or neem cake.",
+      "Maintain mulching to regulate soil temperature."
+    ],
+    "prevention_methods": [
+      "Keep surveillance for aphid vectors and early leaf spot blemishes."
+    ],
+    "safe_handling_precautions": [
+      "Store harvested seed tubers in cool, ventilated, diffused-light conditions."
+    ],
+    "when_to_seek_expert": "No action needed. Continue standard agronomic practices."
+  },
+  {
+    "id": "corn_common_rust",
+    "crop": "Corn (Maize)",
+    "disease": "Common Rust",
+    "scientific_name": "Puccinia sorghi",
+    "category": "Fungal",
+    "severity": "Moderate",
+    "is_healthy": false,
+    "description": "Common rust is an airborne fungal disease of maize characterized by distinctive cinnamon-brown pustules on both upper and lower leaf surfaces.",
+    "symptoms": [
+      "Small, elongated cinnamon-brown to reddish powdery pustules (uredinia) scattered on both leaf surfaces.",
+      "Pustules rupture the leaf epidermis, shedding powdery spores upon touch.",
+      "In late season, pustules turn brownish-black as winter teliospores develop.",
+      "Extensive chlorosis and leaf necrosis under heavy infection."
+    ],
+    "causes": [
+      "Puccinia sorghi fungal spores carried over long distances by prevailing wind currents."
+    ],
+    "contributing_conditions": [
+      "Cool to moderate temperatures (16°C to 25°C).",
+      "High relative humidity (>95%) and 6+ hours of dew formation."
+    ],
+    "immediate_steps": [
+      "Inspect ear leaf and above; if rust is confined to lowest leaves near harvest, treatment may not be cost-effective.",
+      "If pustules appear on ear leaf before silking, consult local agronomy advisory for fungicide evaluation."
+    ],
+    "organic_cultural_management": [
+      "Ensure optimal plant nutrition with balanced potassium to bolster plant cell wall defense."
+    ],
+    "prevention_methods": [
+      "Plant rust-resistant or tolerant corn hybrids possessing the Rp resistance gene.",
+      "Plant early in the season to allow corn to mature before airborne spore flights peak."
+    ],
+    "safe_handling_precautions": [
+      "Wear dust masks when walking through or harvesting heavily rusted fields."
+    ],
+    "when_to_seek_expert": "Consult extension agronomists if rust pustules cover more than 10% of the upper canopy prior to blister stage (R2)."
+  },
+  {
+    "id": "corn_northern_leaf_blight",
+    "crop": "Corn (Maize)",
+    "disease": "Northern Leaf Blight",
+    "scientific_name": "Exserohilum turcicum",
+    "category": "Fungal",
+    "severity": "Moderate to High",
+    "is_healthy": false,
+    "description": "Northern corn leaf blight (NCLB) is a serious foliar disease producing large, cigar-shaped necrotic lesions that reduce photosynthetic capability and grain fill.",
+    "symptoms": [
+      "Large, elongated, elliptical or cigar-shaped lesions (2.5 to 15 cm long).",
+      "Lesions start greyish-green and turn tan or brownish.",
+      "Dark olive or black fungal sporulation visible inside lesions in damp morning air.",
+      "Severe blighting resembles drought stress or frost damage."
+    ],
+    "causes": [
+      "Exserohilum turcicum surviving on corn residue on soil surface."
+    ],
+    "contributing_conditions": [
+      "Moderate temperatures (18°C to 27°C).",
+      "Extended wet spells, heavy morning dew, and overcast skies."
+    ],
+    "immediate_steps": [
+      "Avoid overhead irrigation during humid periods.",
+      "Scout canopy weekly from whorl to tassel stage."
+    ],
+    "organic_cultural_management": [
+      "Deep chisel plowing after harvest to bury infected corn residue.",
+      "Foliar spray of biocontrol agents like Trichoderma viride."
+    ],
+    "prevention_methods": [
+      "Rotate with non-host crops (soybean, peanut, cotton, sorghum).",
+      "Select hybrids with single-gene (Ht genes) or polygenic resistance."
+    ],
+    "safe_handling_precautions": [
+      "Clean combine harvesters and tillers after working in diseased fields."
+    ],
+    "when_to_seek_expert": "Contact your district agricultural officer if lesions reach the ear leaf or above 2 weeks before or after tasseling."
+  },
+  {
+    "id": "corn_healthy",
+    "crop": "Corn (Maize)",
+    "disease": "Healthy",
+    "scientific_name": "Zea mays",
+    "category": "Normal / Healthy",
+    "severity": "None",
+    "is_healthy": true,
+    "description": "The maize plant displays broad, arching dark green leaves, a thick healthy stalk, and normal tassel and silk emergence.",
+    "symptoms": [
+      "Smooth, clean, broad green leaf blades without pustules or lesions.",
+      "Stout stalk without softening or discolored nodes.",
+      "Uniform tassel branch opening and vibrant silks."
+    ],
+    "causes": [
+      "Optimal seed spacing, adequate basal fertilizer, and clean cultivation."
+    ],
+    "contributing_conditions": [
+      "Warm growing weather (25°C - 32°C) with consistent moisture."
+    ],
+    "immediate_steps": [
+      "Maintain adequate moisture during critical silking and tassel pollination stages.",
+      "Top-dress with nitrogen or organic compost at knee-high stage."
+    ],
+    "organic_cultural_management": [
+      "Intercrop with legumes (cowpea, beans) to boost soil nitrogen.",
+      "Maintain shallow inter-row hoeing for weed management."
+    ],
+    "prevention_methods": [
+      "Use certified high-germination seed stock.",
+      "Soil testing every two seasons."
+    ],
+    "safe_handling_precautions": [
+      "General safe farming protocols."
+    ],
+    "when_to_seek_expert": "No current action needed."
+  },
+  {
+    "id": "rice_bacterial_leaf_blight",
+    "crop": "Rice (Paddy)",
+    "disease": "Bacterial Leaf Blight",
+    "scientific_name": "Xanthomonas oryzae pv. oryzae",
+    "category": "Bacterial",
+    "severity": "High to Critical",
+    "is_healthy": false,
+    "description": "Bacterial leaf blight (BLB) of rice causes drying of leaves and 'kresek' (systemic seedling wilt), causing grain yield losses up to 50% in major Asian rice-growing belts.",
+    "symptoms": [
+      "Water-soaked stripes along leaf margins turning yellow to bleached straw-white.",
+      "Wavy or undulated lesion margins.",
+      "Milky bacterial exudate droplets oozing on young lesions in early morning dew, drying into amber beads.",
+      "In young seedlings, systemic wilting and rolling of entire leaves ('Kresek' phase)."
+    ],
+    "causes": [
+      "Xanthomonas oryzae pv. oryzae entering through hydathodes or mechanical clipping wounds."
+    ],
+    "contributing_conditions": [
+      "High temperatures (25°C to 34°C) with high humidity (>70%).",
+      "Cyclones, strong winds, and flooding rains that create leaf abrasions.",
+      "Excessive nitrogen fertilizer application without balancing potassium."
+    ],
+    "immediate_steps": [
+      "Drain standing field water temporarily for 3-4 days to arrest bacterial multiplication.",
+      "Halt top-dressing nitrogen fertilizers immediately.",
+      "Apply potassium muriate (potash) to strengthen plant epidermal silica layers."
+    ],
+    "organic_cultural_management": [
+      "Spray 20% fresh cow dung water extract or neem oil (3%) after filtering.",
+      "Apply bio-agents like Pseudomonas fluorescens at 10g/L."
+    ],
+    "prevention_methods": [
+      "Plant resistant varieties (e.g., Improved Samba Mahsuri, Swarna-Sub1, IR64).",
+      "Do not clip seedling leaf tips at transplanting (creates entry wounds).",
+      "Keep field bunds clear of weed hosts like Leersia and wild rice."
+    ],
+    "safe_handling_precautions": [
+      "Avoid walking in wet paddy fields during active blight outbreak."
+    ],
+    "when_to_seek_expert": "Seek guidance from your local Agricultural Assistant or KVK regarding certified bactericide formulations and drainage timing."
+  },
+  {
+    "id": "rice_brown_spot",
+    "crop": "Rice (Paddy)",
+    "disease": "Brown Spot",
+    "scientific_name": "Bipolaris oryzae (Cochliobolus miyabeanus)",
+    "category": "Fungal",
+    "severity": "Moderate to High",
+    "is_healthy": false,
+    "description": "Rice brown spot is a notorious chronic fungal disease linked historically to poor soil fertility and water stress, damaging both foliage and panicle grains.",
+    "symptoms": [
+      "Small, circular to oval sesame-seed shaped brown spots with yellow halos.",
+      "Older spots have grey or whitish centers with dark brown borders.",
+      "Dark brown to black discoloration on glumes (grain husks) causing unfilled or chaffy grains.",
+      "Reduced milling quality and dark spotting on milled rice kernel."
+    ],
+    "causes": [
+      "Fungal pathogen Bipolaris oryzae surviving in seed and soil stubble."
+    ],
+    "contributing_conditions": [
+      "Nutrient-deficient soils (especially deficient in silicon, manganese, potassium, or nitrogen).",
+      "Drought stress or intermittent water deficit in rainfed lowlands."
+    ],
+    "immediate_steps": [
+      "Restore proper irrigation depth (3-5 cm standing water) to relieve drought stress.",
+      "Apply light balanced nutrient top-dressing including micronutrients."
+    ],
+    "organic_cultural_management": [
+      "Seed treatment with Pseudomonas fluorescens (10 g/kg seed) before sowing.",
+      "Foliar spray of neem seed extract or compost tea."
+    ],
+    "prevention_methods": [
+      "Conduct soil test and amend sandy or degraded soils with organic farmyard manure.",
+      "Use certified clean seeds; hot water soak seeds at 52°C-54°C for 10-15 minutes.",
+      "Apply balanced NPK with supplemental zinc and silica."
+    ],
+    "safe_handling_precautions": [
+      "Ensure proper drying of harvested paddy grains below 14% moisture before storage."
+    ],
+    "when_to_seek_expert": "Consult your agricultural university extension if spots cover more than 20% of flag leaf area before panicle emergence."
+  },
+  {
+    "id": "rice_healthy",
+    "crop": "Rice (Paddy)",
+    "disease": "Healthy",
+    "scientific_name": "Oryza sativa",
+    "category": "Normal / Healthy",
+    "severity": "None",
+    "is_healthy": true,
+    "description": "The paddy plant exhibits vibrant green tillering, healthy erect flag leaves, and clean glumes on developing panicles.",
+    "symptoms": [
+      "Upright, deep green leaf blades without spots, discolored margins, or bacterial beads.",
+      "Stout tillers firmly anchored in puddle soil.",
+      "Clean, golden-tinted emergent panicles."
+    ],
+    "causes": [
+      "System of Rice Intensification (SRI) or balanced puddling, proper water level, and balanced fertilization."
+    ],
+    "contributing_conditions": [
+      "Sunny tropical days with well-regulated water regime."
+    ],
+    "immediate_steps": [
+      "Maintain recommended water depth according to growth stage (shallow during tillering, saturated at flowering)."
+    ],
+    "organic_cultural_management": [
+      "Incorporate green manure crops (dhaincha or sunn hemp) during puddling.",
+      "Release Trichogramma egg parasitoids for stem borer biocontrol."
+    ],
+    "prevention_methods": [
+      "Maintain clean field bunds and ensure alternate wetting and drying (AWD) water management."
+    ],
+    "safe_handling_precautions": [
+      "General paddy field maintenance."
+    ],
+    "when_to_seek_expert": "No intervention needed."
+  },
+  {
+    "id": "pepper_bacterial_spot",
+    "crop": "Pepper Bell (Chilli)",
+    "disease": "Bacterial Spot",
+    "scientific_name": "Xanthomonas campestris pv. vesicatoria",
+    "category": "Bacterial",
+    "severity": "Moderate to High",
+    "is_healthy": false,
+    "description": "Bacterial spot on bell peppers and chillies causes severe defoliation, blossom drop, and unsightly blistered spots on peppers, drastically reducing market value.",
+    "symptoms": [
+      "Small, yellow-green spots on young leaves that turn dark brown and water-soaked.",
+      "Spots often cluster along leaf margins or tips where water droplets collect.",
+      "Extensive leaf yellowing followed by severe defoliation, exposing fruits to sunscald.",
+      "Rough, elevated, wart-like brown scabs on pepper pods."
+    ],
+    "causes": [
+      "Bacterium Xanthomonas campestris pv. vesicatoria transmitted via infected seed and rain splash."
+    ],
+    "contributing_conditions": [
+      "Temperatures between 24°C and 30°C.",
+      "Frequent rain showers and overhead sprinkler systems."
+    ],
+    "immediate_steps": [
+      "Stop overhead sprinkling; shift to drip lines immediately.",
+      "Avoid handling pepper plants while foliage is damp."
+    ],
+    "organic_cultural_management": [
+      "Apply approved copper hydroxide or bio-fungicide like Bacillus subtilis according to label directions.",
+      "Apply organic straw mulch around plant bases."
+    ],
+    "prevention_methods": [
+      "Plant certified disease-free bell pepper / chilli seed varieties.",
+      "Rotate with non-solanaceous crops for 2-3 years."
+    ],
+    "safe_handling_precautions": [
+      "Sterilize pruning tools and trays with alcohol or bleach solution between crops."
+    ],
+    "when_to_seek_expert": "Seek guidance from your horticulture extension agent if copper-resistant strains are reported in your area."
+  },
+  {
+    "id": "pepper_healthy",
+    "crop": "Pepper Bell (Chilli)",
+    "disease": "Healthy",
+    "scientific_name": "Capsicum annuum",
+    "category": "Normal / Healthy",
+    "severity": "None",
+    "is_healthy": true,
+    "description": "The pepper plant exhibits vigorous dark green foliage, healthy branching, and robust flower and pod formation without blemishes.",
+    "symptoms": [
+      "Glossy, smooth, deep green leaves without blemishes or marginal scorch.",
+      "Sturdy woody main stem and healthy branching nodes.",
+      "Glossy, firm, spotless fruit developing uniformly."
+    ],
+    "causes": [
+      "Balanced soil nutrients, calcium availability, and regular moisture."
+    ],
+    "contributing_conditions": [
+      "Warm days (22°C - 30°C), well-drained loamy soil with organic matter."
+    ],
+    "immediate_steps": [
+      "Maintain steady drip irrigation to prevent blossom-end rot.",
+      "Inspect undersides of leaves for mites and thrips."
+    ],
+    "organic_cultural_management": [
+      "Apply foliar neem oil spray once every 14 days.",
+      "Top-dress with vermicompost and bone meal for phosphorus."
+    ],
+    "prevention_methods": [
+      "Ensure proper plant spacing (45-60 cm) for air flow."
+    ],
+    "safe_handling_precautions": [
+      "Standard farming hygiene."
+    ],
+    "when_to_seek_expert": "No current action needed."
+  },
+  {
+    "id": "apple_scab",
+    "crop": "Apple",
+    "disease": "Apple Scab",
+    "scientific_name": "Venturia inaequalis",
+    "category": "Fungal",
+    "severity": "High",
+    "is_healthy": false,
+    "description": "Apple scab is the most economically significant disease of apples worldwide, causing olive-green velvety lesions on leaves and severely deformed, cracked fruit.",
+    "symptoms": [
+      "Olive-green to velvety dark brown circular spots on leaf surfaces.",
+      "Leaves become distorted, puckered, and may drop prematurely.",
+      "Scabby, corky, dark brown or black lesions on fruit skin that may crack open, allowing secondary rot."
+    ],
+    "causes": [
+      "Venturia inaequalis fungus overwintering in fallen leaves on the orchard floor."
+    ],
+    "contributing_conditions": [
+      "Cool, rainy spring weather with temperatures between 15°C and 24°C.",
+      "Prolonged leaf wetness spanning 9 to 18 continuous hours."
+    ],
+    "immediate_steps": [
+      "Prune overcrowded inner branches during dormancy to improve air circulation and canopy drying.",
+      "Rake and destroy or shred fallen orchard leaves in autumn to eliminate overwintering ascocarps."
+    ],
+    "organic_cultural_management": [
+      "Apply sulfur or lime sulfur sprays during green tip through petal fall according to organic orchard spray schedules.",
+      "Spray 5% urea solution on fallen autumn leaves to accelerate leaf breakdown before spring spore release."
+    ],
+    "prevention_methods": [
+      "Plant scab-resistant cultivars (e.g., Liberty, Prima, Enterprise, GoldRush).",
+      "Monitor Mills infection period chart to time protective sprays accurately."
+    ],
+    "safe_handling_precautions": [
+      "Wear eye protection and respirator when applying orchard sulfur formulations."
+    ],
+    "when_to_seek_expert": "Consult your regional fruit research station or horticulture officer for local Mills infection alerts and fungicide resistance management."
+  },
+  {
+    "id": "apple_black_rot",
+    "crop": "Apple",
+    "disease": "Black Rot",
+    "scientific_name": "Botryosphaeria obtusa",
+    "category": "Fungal",
+    "severity": "Moderate to High",
+    "is_healthy": false,
+    "description": "Apple black rot affects leaves (frog-eye leaf spot), branches (cankers), and fruit, causing mummified fruit and limb dieback in orchards.",
+    "symptoms": [
+      "Small purple spots on leaves expanding into circular lesions with light brown centers and dark purple borders ('frog-eye' appearance).",
+      "Firm brown rot on fruit starting near calyx, showing concentric light and dark brown rings.",
+      "Infected fruit turns into hard, shriveled black mummies adhering to twigs.",
+      "Sunken, reddish-brown bark cankers on limbs."
+    ],
+    "causes": [
+      "Botryosphaeria obtusa fungus surviving in dead wood, prunings, and mummified apples."
+    ],
+    "contributing_conditions": [
+      "Warm, humid weather (24°C to 28°C) accompanied by frequent rains.",
+      "Pre-existing tree wounds from insect feeding, hail, fire blight, or winter freeze."
+    ],
+    "immediate_steps": [
+      "Prune out dead branches, twigs, and cankers at least 15 cm below visible margins.",
+      "Knock down and destroy all mummified fruits left hanging on trees."
+    ],
+    "organic_cultural_management": [
+      "Apply protective copper or captan fungicides during early fruit development per orchard advisory.",
+      "Paint large pruning cuts with tree wound sealers or sanitized white latex paint."
+    ],
+    "prevention_methods": [
+      "Keep trees vigorously nourished and avoid over-fertilizing with nitrogen.",
+      "Control insect pests (codling moth, plum curculio) that create fruit entry punctures."
+    ],
+    "safe_handling_precautions": [
+      "Sterilize pruning loppers between cuts with 70% alcohol."
+    ],
+    "when_to_seek_expert": "Consult orchard extension officers if large scaffold limb cankers threaten tree structure."
+  },
+  {
+    "id": "apple_cedar_apple_rust",
+    "crop": "Apple",
+    "disease": "Cedar Apple Rust",
+    "scientific_name": "Gymnosporangium juniperi-virginianae",
+    "category": "Fungal",
+    "severity": "Moderate",
+    "is_healthy": false,
+    "description": "A heteroecious rust fungus requiring both apple/crabapple trees and eastern red cedar / juniper trees to complete its two-year lifecycle.",
+    "symptoms": [
+      "Bright yellow-orange or fiery red spots on upper leaf surfaces in late spring.",
+      "Tiny black specks (pycnia) develop inside the orange spots.",
+      "Tube-like finger structures (aecia) erupt on the underside of leaves and fruit.",
+      "Premature leaf yellowing and defoliation."
+    ],
+    "causes": [
+      "Gymnosporangium juniperi-virginianae spores discharged from gelatinous cedar galls during warm spring rains."
+    ],
+    "contributing_conditions": [
+      "Presence of juniper or red cedar trees within 1-2 km of apple orchard.",
+      "Spring temperatures between 10°C and 24°C with moist rainfall."
+    ],
+    "immediate_steps": [
+      "Remove nearby wild red cedar or ornamental juniper trees within 500 meters of the orchard where feasible.",
+      "Prune out visible brown cedar-apple galls on nearby junipers in winter."
+    ],
+    "organic_cultural_management": [
+      "Apply sulfur-based protective sprays at tight cluster through petal fall stages.",
+      "Apply preventative myclobutanil or mancozeb per local extension spray calendar."
+    ],
+    "prevention_methods": [
+      "Plant rust-immune or resistant apple cultivars (e.g., Redfree, Freedom, Liberty, William's Pride).",
+      "Avoid planting susceptible varieties (Honeycrisp, Rome, Golden Delicious) near cedar shelterbelts."
+    ],
+    "safe_handling_precautions": [
+      "Follow standard spray drift safety measures."
+    ],
+    "when_to_seek_expert": "Consult local fruit extension specialists if defoliation exceeds 20% in consecutive years."
+  },
+  {
+    "id": "apple_healthy",
+    "crop": "Apple",
+    "disease": "Healthy",
+    "scientific_name": "Malus domestica",
+    "category": "Normal / Healthy",
+    "severity": "None",
+    "is_healthy": true,
+    "description": "The apple tree showcases healthy green foliage, clean spur development, and normal fruit set without blemishes or rust spots.",
+    "symptoms": [
+      "Bright, glossy green ovate leaves without velvety patches or orange spots.",
+      "Firm, clean fruitlets without cracks or russeting.",
+      "Smooth bark and vigorous terminal shoot extension."
+    ],
+    "causes": [
+      "Proper winter pruning, orchard floor sanitation, and integrated pest management."
+    ],
+    "contributing_conditions": [
+      "Temperate climate with adequate winter chilling hours and full sun."
+    ],
+    "immediate_steps": [
+      "Maintain balanced orchard irrigation and clean tree ring basins.",
+      "Thin excess fruitlets to encourage uniform size and prevent limb breakage."
+    ],
+    "organic_cultural_management": [
+      "Apply composted mulch around the drip line.",
+      "Maintain pheromone traps for codling moth monitoring."
+    ],
+    "prevention_methods": [
+      "Conduct dormant winter lime sulfur sprays."
+    ],
+    "safe_handling_precautions": [
+      "Sanitize pruning equipment before winter pruning."
+    ],
+    "when_to_seek_expert": "No action needed."
+  },
+  {
+    "id": "grape_black_rot",
+    "crop": "Grape",
+    "disease": "Black Rot",
+    "scientific_name": "Guignardia bidwellii",
+    "category": "Fungal",
+    "severity": "High to Critical",
+    "is_healthy": false,
+    "description": "Black rot is one of the most destructive diseases of cultivated grapes, causing berry shriveling into hard, black, wrinkled mummies and circular leaf spots.",
+    "symptoms": [
+      "Small circular reddish-brown leaf spots with distinct dark brown margins.",
+      "Tiny black pimples (pycnidia) arranged in a ring inside leaf spots.",
+      "Infected berries turn pale, then soft and sunken, before shriveling into hard black mummies covered with pycnidia.",
+      "Dark elongated lesions on young shoots and petioles."
+    ],
+    "causes": [
+      "Guignardia bidwellii fungus overwintering in mummified berries left on trellises or vineyard floor."
+    ],
+    "contributing_conditions": [
+      "Warm, wet weather (20°C to 27°C) requiring 6-12 hours of continuous vine wetness.",
+      "Dense canopy with poor air movement and shaded vine interiors."
+    ],
+    "immediate_steps": [
+      "Prune and destroy all mummified grape clusters still clinging to vines.",
+      "Canopy shoot positioning and leaf pulling around fruit clusters to accelerate morning sun drying."
+    ],
+    "organic_cultural_management": [
+      "Apply protective copper or mancozeb sprays starting at 2-inch shoot growth through 4 weeks post-bloom.",
+      "Cultivate or bury vineyard floor debris before bud break in spring."
+    ],
+    "prevention_methods": [
+      "Train vines on high trellis systems for enhanced air circulation.",
+      "Select resistant grape cultivars where suited (e.g., Norton, Chancellor)."
+    ],
+    "safe_handling_precautions": [
+      "Disinfect pruning shears with alcohol between vine blocks."
+    ],
+    "when_to_seek_expert": "Consult your viticulture extension specialist if black rot appears on clusters during early fruit set."
+  },
+  {
+    "id": "grape_esca",
+    "crop": "Grape",
+    "disease": "Esca (Black Measles)",
+    "scientific_name": "Phaeomoniella chlamydospora / Fomitiporia",
+    "category": "Fungal Complex / Trunk Disease",
+    "severity": "Critical",
+    "is_healthy": false,
+    "description": "Esca is a destructive grapevine trunk disease complex affecting mature vineyards, causing 'tiger-stripe' leaf necrosis, spotted berries, and sudden apoplexy (vine collapse).",
+    "symptoms": [
+      "'Tiger-stripe' chlorotic and necrotic patterns between leaf veins.",
+      "Small, dark purplish-brown spots on berries known as 'black measles'.",
+      "Internal trunk cross-section shows brown wood streaking and soft yellow spongy decay.",
+      "Sudden apoplexy: rapid wilting and collapse of entire vines during hot dry spells."
+    ],
+    "causes": [
+      "Complex of vascular and wood-rotting fungal pathogens entering through winter pruning wounds."
+    ],
+    "contributing_conditions": [
+      "Older vines (typically >8-10 years).",
+      "Large pruning wounds made during wet winter weather.",
+      "Severe water stress following hot summer temperature spikes."
+    ],
+    "immediate_steps": [
+      "Mark symptomatic vines with bright tape during summer for remedial winter trunk surgery.",
+      "Avoid water stress by maintaining uniform drip irrigation."
+    ],
+    "organic_cultural_management": [
+      "Apply Trichoderma-based pruning wound protectant paste immediately after winter trimming.",
+      "Prune vines late in the dormant season (just before bud break) when wound healing is fastest."
+    ],
+    "prevention_methods": [
+      "Practice clean pruning: make clean, smooth cuts without ripping vine bark.",
+      "Never prune vines during rain or when canopy is dripping."
+    ],
+    "safe_handling_precautions": [
+      "Remove dead trunk sections from the vineyard and burn or incinerate them."
+    ],
+    "when_to_seek_expert": "Consult a viticulturist for trunk renewal (retraining water sprouts from ground) or graft replacement techniques."
+  },
+  {
+    "id": "grape_leaf_blight",
+    "crop": "Grape",
+    "disease": "Leaf Blight",
+    "scientific_name": "Pseudocercospora cladosporioides (Isariopsis cladosporioides)",
+    "category": "Fungal",
+    "severity": "Moderate",
+    "is_healthy": false,
+    "description": "Isariopsis leaf spot or grape leaf blight causes premature defoliation in late summer, exposing clusters to sunburn and diminishing cold hardiness.",
+    "symptoms": [
+      "Irregular brown to reddish-brown necrotic spots with faint yellowish margins.",
+      "Olive-colored velvety mold visible on the underside of leaf lesions.",
+      "Spots coalesce into extensive blighted sectors causing leaf curling and dropping.",
+      "Reduced sugar accumulation and delayed berry ripening."
+    ],
+    "causes": [
+      "Pseudocercospora fungal spores spread by wind and rain splash."
+    ],
+    "contributing_conditions": [
+      "Warm temperatures (22°C to 28°C) accompanied by high relative humidity.",
+      "Crowded vine canopies with poor sunlight penetration."
+    ],
+    "immediate_steps": [
+      "Carry out leaf thinning in the fruiting zone to facilitate fast drying.",
+      "Ensure proper vineyard drainage to prevent stagnant moisture."
+    ],
+    "organic_cultural_management": [
+      "Apply Bordeaux mixture (1%) or copper oxychloride per regional viticulture advisory.",
+      "Maintain vineyard floor clean of weed clusters."
+    ],
+    "prevention_methods": [
+      "Regular trellis maintenance to prevent sprawling canes.",
+      "Post-harvest copper wash before winter dormancy."
+    ],
+    "safe_handling_precautions": [
+      "Use appropriate protective gear when spraying copper fungicides."
+    ],
+    "when_to_seek_expert": "Consult your local horticulture department if severe defoliation occurs before veraison."
+  },
+  {
+    "id": "grape_healthy",
+    "crop": "Grape",
+    "disease": "Healthy",
+    "scientific_name": "Vitis vinifera",
+    "category": "Normal / Healthy",
+    "severity": "None",
+    "is_healthy": true,
+    "description": "The grapevine demonstrates vigorous shoot elongation, clean glossy green leaves, and well-distributed uniform fruit clusters.",
+    "symptoms": [
+      "Expansive, vibrant green palmate leaves without marginal scorch or spots.",
+      "Robust green shoots with active tendrils.",
+      "Clean, bloom-covered grape berries developing evenly."
+    ],
+    "causes": [
+      "Optimal winter spur pruning, canopy management, and micro-irrigation."
+    ],
+    "contributing_conditions": [
+      "Full sunshine, well-drained rocky or gravelly loam, and good ventilation."
+    ],
+    "immediate_steps": [
+      "Maintain regular canopy shoot tucking into trellis wires.",
+      "Monitor soil moisture with tensiometers."
+    ],
+    "organic_cultural_management": [
+      "Mulch under-vine strip with composted vineyard pomace.",
+      "Maintain beneficial insect flowering borders."
+    ],
+    "prevention_methods": [
+      "Routine scouting for powdery mildew and berry moth."
+    ],
+    "safe_handling_precautions": [
+      "Standard viticultural best practices."
+    ],
+    "when_to_seek_expert": "No intervention required."
+  }
+]

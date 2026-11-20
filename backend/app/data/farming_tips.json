@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "Integrated Pest & Disease Management (IPM)",
+    "category": "Crop Protection",
+    "summary": "Combine cultural, biological, and physical controls before considering chemical interventions.",
+    "tips": [
+      "Scout fields at least twice a week, checking leaf undersides and soil interfaces.",
+      "Install pheromone traps and yellow/blue sticky cards for early pest flight detection.",
+      "Conserve natural predators such as ladybird beetles, lacewings, and predatory spiders.",
+      "Use chemicals only as a last resort, following label dosages strictly and rotating modes of action."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Smart Irrigation & Moisture Control",
+    "category": "Water Management",
+    "summary": "Foliage wetness is the number one driver of fungal and bacterial infections.",
+    "tips": [
+      "Adopt drip irrigation or furrow irrigation instead of overhead sprinklers.",
+      "Water crops early in the morning so morning sun evaporates residual foliage moisture quickly.",
+      "Apply organic mulch (straw, dried leaves, dry husk) to reduce evaporation and prevent soil-borne spore backsplashes.",
+      "Maintain drainage channels to avoid standing water during heavy monsoon rains."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Soil Health & Nutrient Balancing",
+    "category": "Soil & Nutrition",
+    "summary": "Healthy plants with balanced cellular structure naturally resist pathogen penetration.",
+    "tips": [
+      "Test your soil pH and nutrient profile every two seasons before major sowings.",
+      "Avoid excessive synthetic nitrogen, which creates tender, watery plant tissues vulnerable to blights and pests.",
+      "Incorporate organic compost, farmyard manure, and green manure crops (sunn hemp, dhaincha).",
+      "Ensure adequate potassium and silica to strengthen leaf cuticle thickness."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Clean Seed & Nursery Sanitation",
+    "category": "Preventive Cultural Practices",
+    "summary": "Over 60% of crop diseases enter farms via contaminated seed lots or seedling nurseries.",
+    "tips": [
+      "Always source certified, disease-free seed batches from registered agricultural stations.",
+      "Perform seed priming and biological treatment using Trichoderma viride or Pseudomonas fluorescens.",
+      "Disinfect nursery trays, knives, and pruning shears regularly with 10% bleach solution or 70% alcohol.",
+      "Rogue out and destroy weak or stunted nursery seedlings before transplanting into main fields."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Safe Agricultural Chemical Handling",
+    "category": "Farmer Safety & Compliance",
+    "summary": "Protect farmer health and environmental safety during any agricultural application.",
+    "tips": [
+      "Always wear complete personal protective equipment (PPE): gloves, eye mask, and respirator.",
+      "Never mix two unauthorized pesticides together; follow label compatibility charts.",
+      "Do not spray against the direction of the wind or during hot midday hours.",
+      "Respect Pre-Harvest Intervals (PHI) strictly to prevent harmful residues in consumer foods.",
+      "Triple-rinse and puncture empty pesticide containers before authorized disposal."
+    ]
+  }
+]
