@@ -358,6 +358,6 @@ export const Home = ({ setActivePage, setSelectedSample }) => {
         </div>
      
 
-    </div>
+  
   );
 };
