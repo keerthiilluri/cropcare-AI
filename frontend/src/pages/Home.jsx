@@ -1,54 +1,49 @@
 
-import React from "react";
-import { CheckCircle2, ArrowRight } from "lucide-react";
+import React from 'react';
+import { CheckCircle2, ArrowRight } from 'lucide-react';
 
-function Home({ setActivePage }) {
+export function Home({ setActivePage }) {
   return (
     <div className="min-h-screen bg-slate-50 p-6">
 
       <div className="bg-white rounded-2xl p-6 shadow-md border border-slate-200 space-y-4">
 
-        <ul className="space-y-2.5 text-xs sm:text-sm text-slate-700">
+        <ul className="space-y-3 text-sm text-slate-700">
 
           <li className="flex items-center gap-2">
-            <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0" />
-            Reduces unnecessary pesticide expenditure through early organic intervention.
+            <CheckCircle2 className="w-4 h-4 text-emerald-600" />
+            Reduces unnecessary pesticide expenditure.
           </li>
 
           <li className="flex items-center gap-2">
-            <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0" />
-            Multilingual interface (Telugu & English) ensures non-technical farmers can easily use it.
+            <CheckCircle2 className="w-4 h-4 text-emerald-600" />
+            Supports Telugu and English languages.
           </li>
 
           <li className="flex items-center gap-2">
-            <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0" />
-            Crowdsourced outbreak tracking helps Krishi Vigyan Kendras isolate regional crop epidemics.
+            <CheckCircle2 className="w-4 h-4 text-emerald-600" />
+            Tracks regional crop disease outbreaks.
           </li>
 
         </ul>
       </div>
 
-      <div className="bg-white rounded-2xl p-6 shadow-md border border-slate-200 space-y-4 mt-6">
+      <div className="mt-6 bg-white rounded-2xl p-6 shadow-md border border-slate-200">
 
-        <h4 className="text-base font-bold text-slate-900">
+        <h2 className="text-lg font-bold text-slate-900 mb-4">
           Demonstration Quick Links
-        </h4>
+        </h2>
 
-        <div className="space-y-2">
+        <button
+          onClick={() => setActivePage('detect')}
+          className="w-full flex items-center justify-between p-3 rounded-xl bg-green-100 hover:bg-green-200 text-green-800 text-sm font-bold"
+        >
+          <span>1. Launch AI Detection Studio</span>
+          <ArrowRight className="w-4 h-4" />
+        </button>
 
-          <button
-            onClick={() => setActivePage("detect")}
-            className="w-full flex items-center justify-between p-3 rounded-xl bg-forest-50 hover:bg-forest-100 text-forest-800 text-xs font-bold transition-colors"
-          >
-            <span>1. Launch AI Detection Studio</span>
-            <ArrowRight className="w-4 h-4" />
-          </button>
-
-        </div>
       </div>
 
     </div>
   );
 }
-
-export default Home;
