@@ -317,10 +317,34 @@ export const Home = ({ setActivePage, setSelectedSample }) => {
         </div>
       </section>
 
-      
-           
-           
-           
+      {/* Community Service Project & Academic Benefits */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="bg-gradient-to-br from-forest-50 to-agricultural-50 rounded-3xl p-8 sm:p-12 border border-forest-100 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+          <div className="space-y-4">
+            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-md bg-forest-200 text-forest-900 text-xs font-black uppercase tracking-wider">
+              <Award className="w-4 h-4 text-forest-800" /> College CSP Impact
+            </div>
+            <h3 className="text-2xl sm:text-3xl font-black text-forest-950 font-sans">
+              Bridging Technology & Agricultural Communities
+            </h3>
+            <p className="text-sm text-slate-600 leading-relaxed">
+              CropCare AI was designed for Community Service Project (CSP) demonstration to solve real farmer distress:
+            </p>
+            <ul className="space-y-2.5 text-xs sm:text-sm text-slate-700">
+              <li className="flex items-center gap-2">
+                <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0" />
+                Reduces unnecessary pesticide expenditure through early organic intervention.
+              </li>
+              <li className="flex items-center gap-2">
+                <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0" />
+                Multilingual interface (Telugu & English) ensures non-technical farmers can easily use it.
+              </li>
+              <li className="flex items-center gap-2">
+                <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0" />
+                Crowdsourced outbreak tracking helps Krishi Vigyan Kendras isolate regional crop epidemics.
+              </li>
+            </ul>
+          </div>
 
           <div className="bg-white rounded-2xl p-6 shadow-md border border-slate-200 space-y-4">
             <h4 className="text-base font-bold text-slate-900">Demonstration Quick Links</h4>
@@ -356,8 +380,8 @@ export const Home = ({ setActivePage, setSelectedSample }) => {
             </div>
           </div>
         </div>
-     
+      </section>
 
-  
+    </div>
   );
 };
