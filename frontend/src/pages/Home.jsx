@@ -321,9 +321,7 @@ export const Home = ({ setActivePage, setSelectedSample }) => {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="bg-gradient-to-br from-forest-50 to-agricultural-50 rounded-3xl p-8 sm:p-12 border border-forest-100 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
           <div className="space-y-4">
-            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-md bg-forest-200 text-forest-900 text-xs font-black uppercase tracking-wider">
-              <Award className="w-4 h-4 text-forest-800" /> College CSP Impact
-            </div>
+            
             <h3 className="text-2xl sm:text-3xl font-black text-forest-950 font-sans">
               Bridging Technology & Agricultural Communities
             </h3>
